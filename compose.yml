@@ -6,7 +6,7 @@ services:
 
   personal_api:
 
-    image: "vvraju056/22it056-personal-api"
+    image: "jotheeswaranjd7/22itl02-personal-api"
 
     container_name: personal_api
 
@@ -18,4 +18,4 @@ services:
 
 
 
- Update this file to add the content
+ 
